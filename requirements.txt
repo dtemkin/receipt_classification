@@ -1,0 +1,5 @@
+sklearn
+pyenchant
+bs4
+requests
+numpy

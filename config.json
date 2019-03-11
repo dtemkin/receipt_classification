@@ -1,0 +1,12 @@
+{
+  "USER":
+  {"location": "Denver"}
+  "WALMART":
+  {
+    "baseurl": "http://api.walmartlabs.com/v", "version": 1,
+    "APIKEYS": [],
+    "global_payload": {"apiKey": null, "format": "json"},
+    "global_header": {"useragent": "Mozilla/5.0 (X11; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0"}
+    }
+  }
+}
